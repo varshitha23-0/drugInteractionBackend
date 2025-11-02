@@ -1,0 +1,455 @@
+{
+  "Prednisolone": {
+    "interactions": {
+      "Digoxin": "Prednisolone may decrease the cardiotoxic activities of Digoxin.",
+      "Ibuprofen": "The risk or severity of adverse effects can be increased when Ibuprofen is combined with Prednisolone.",
+      "Rosuvastatin": "The serum concentration of Prednisolone can be increased when it is combined with Rosuvastatin.",
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Prednisolone.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Prednisolone.",
+      "Atorvastatin": "The risk or severity of adverse effects can be increased when Prednisolone is combined with Atorvastatin.",
+      "Metformin": "The therapeutic efficacy of Metformin can be decreased when used in combination with Prednisolone."
+    },
+    "food_interactions": "No information available.",
+    "indications": "No information available.",
+    "tablet_brand": [
+      "Metrol",
+      "Deltasone",
+      "Predonine"
+    ]
+  },
+  "Digoxin": {
+    "interactions": {
+      "Prednisolone": "Prednisolone may decrease the cardiotoxic activities of Digoxin.",
+      "Busulfan": "Busulfan may decrease the cardiotoxic activities of Digoxin.",
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Digoxin.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Digoxin.",
+      "Ibuprofen": "The serum concentration of Ibuprofen can be increased when it is combined with Digoxin.",
+      "Atorvastatin": "The serum concentration of Atorvastatin can be increased when it is combined with Digoxin.",
+      "Lisinopril": "The serum concentration of Lisinopril can be increased when it is combined with Digoxin.",
+      "Captopril": "The serum concentration of Captopril can be increased when it is combined with Digoxin.",
+      "Azithromycin": "The serum concentration of Azithromycin can be increased when it is combined with Digoxin."
+    },
+    "food_interactions": "Do not take with bran and high fiber foods. Separate administration of bran and high fiber foods from medication by at least 2 hours. Avoid potassium-containing products. They may cause arrhythmias when given with digoxin. Avoid multivalent ions. Calcium and aluminum containing products (including kaolin-pectin) may interfere with absorption) and digoxin administration must be separated by several hours. Avoid St. John's Wort. This drug can decrease digoxin levels.",
+    "indications": "Digoxin is indicated in the following conditions: 1) For the treatment of mild to moderate heart failure in adult patients.[L9143] 2) To increase myocardial contraction in children diagnosed with heart failure.[L9143] 3) To maintain control ventricular rate in adult patients diagnosed with chronic atrial fibrillation.[L9143]\r\n\r\nIn adults with heart failure, when it is clinically possible, digoxin should be administered in conjunction with a diuretic and an angiotensin-converting enzyme (ACE) inhibitor for optimum effects.[L9143]",
+    "tablet_brand": [
+      "Digox",
+      "Lanoxin"
+    ]
+  },
+  "Busulfan": {
+    "interactions": {
+      "Digoxin": "Busulfan may decrease the cardiotoxic activities of Digoxin.",
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Busulfan.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Busulfan."
+    },
+    "food_interactions": "Drink plenty of fluids. Exercise caution with grapefruit products. Exercise caution with St. John's Wort. Take at the same time every day.",
+    "indications": "For use in combination with cyclophosphamide as a conditioning regimen prior to allogeneic hematopoietic progenitor cell transplantation for chronic myelogenous  (myeloid, myelocytic, granulocytic) leukemia (FDA has designated busulfan as an orphan drug for this use). It is also used as a component of pretransplant conditioning regimens in patients undergoing bone marrow transplantation for acute myeloid leukemia and nonmalignant diseases.",
+    "tablet_brand": [
+      "Myleran",
+      "Busilvex"
+    ]
+  },
+  "Ibuprofen": {
+    "interactions": {
+      "Prednisolone": "The risk or severity of adverse effects can be increased when Ibuprofen is combined with Prednisolone.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Ibuprofen.",
+      "Lisinopril": "The risk or severity of adverse effects can be increased when Lisinopril is combined with Ibuprofen.",
+      "Digoxin": "The serum concentration of Ibuprofen can be increased when it is combined with Digoxin.",
+      "Captopril": "The risk or severity of adverse effects can be increased when Captopril is combined with Ibuprofen.",
+      "Losartan": "The metabolism of Losartan can be decreased when combined with Ibuprofen.",
+      "Pantoprazole": "The metabolism of Pantoprazole can be decreased when combined with Ibuprofen.",
+      "Omeprazole": "The metabolism of Omeprazole can be decreased when combined with Ibuprofen."
+    },
+    "food_interactions": "No information available.",
+    "indications": "No information available.",
+    "tablet_brand": [
+      "Brufen",
+      "Ibugesic",
+      "Advil",
+      "Combiflam"
+    ]
+  },
+  "Rosuvastatin": {
+    "interactions": {
+      "Prednisolone": "The serum concentration of Prednisolone can be increased when it is combined with Rosuvastatin.",
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Rosuvastatin.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Rosuvastatin.",
+      "Losartan": "The metabolism of Losartan can be decreased when combined with Rosuvastatin.",
+      "Atorvastatin": "The risk or severity of adverse effects can be increased when Rosuvastatin is combined with Atorvastatin.",
+      "Pantoprazole": "The metabolism of Pantoprazole can be decreased when combined with Rosuvastatin.",
+      "Omeprazole": "The metabolism of Omeprazole can be decreased when combined with Rosuvastatin.",
+      "Clopidogrel": "The serum concentration of Clopidogrel can be increased when it is combined with Rosuvastatin.",
+      "Lisinopril": "The serum concentration of Lisinopril can be increased when it is combined with Rosuvastatin.",
+      "Captopril": "The serum concentration of Captopril can be increased when it is combined with Rosuvastatin.",
+      "Tramadol": "The serum concentration of Tramadol can be increased when it is combined with Rosuvastatin.",
+      "Clindamycin": "The serum concentration of Clindamycin can be increased when it is combined with Rosuvastatin.",
+      "Alprazolam": "The serum concentration of Alprazolam can be increased when it is combined with Rosuvastatin.",
+      "Azithromycin": "The serum concentration of Azithromycin can be increased when it is combined with Rosuvastatin.",
+      "Gabapentin": "The risk or severity of adverse effects can be increased when Gabapentin is combined with Rosuvastatin."
+    },
+    "food_interactions": "Take with or without food. Co-administration with food does not affect absorption.",
+    "indications": "The FDA monograph states that rosuvastatin is indicated as an adjunct to diet in the treatment of triglyceridemia, Primary Dysbetalipoproteinemia (Type III Hyperlipoproteinemia), and Homozygous Familial Hypercholesterolemia.[F4649]\r\n\r\nThe Health Canada monograph for rosuvastatin further specifies that rosuvastatin is indicated for the reduction of elevated total cholesterol (Total-C), LDL-C, ApoB, the Total-C/HDL-C ratio and triglycerides (TG) and for increasing HDL-C in hyperlipidemic and dyslipidemic conditions when response to diet and exercise alone has been inadequate. It is also indicated for the prevention of major cardiovascular events (including risk of myocardial infarction, nonfatal stroke, and coronary artery revascularization) in adult patients without documented history of cardiovascular or cerebrovascular events, but with at least two conventional risk factors for cardiovascular disease.[F4652]\r\n\r\nPrescribing of statin medications is considered standard practice following any cardiovascular events and for people with a moderate to high risk of development of CVD. Statin-indicated conditions include diabetes mellitus, clinical atherosclerosis (including myocardial infarction, acute coronary syndromes, stable angina, documented coronary artery disease, stroke, trans ischemic attack (TIA), documented carotid disease, peripheral artery disease, and claudication), abdominal aortic aneurysm, chronic kidney disease, and severely elevated LDL-C levels.[A181087, A181406]",
+    "tablet_brand": [
+      "Crestor",
+      "Rosuvast",
+      "Rosuvas"
+    ]
+  },
+  "Doxycycline": {
+    "interactions": {
+      "Prednisolone": "The metabolism of Doxycycline can be decreased when combined with Prednisolone.",
+      "Busulfan": "The metabolism of Doxycycline can be decreased when combined with Busulfan.",
+      "Rosuvastatin": "The metabolism of Doxycycline can be decreased when combined with Rosuvastatin.",
+      "Azithromycin": "The metabolism of Doxycycline can be decreased when combined with Azithromycin.",
+      "Sildenafil": "The metabolism of Doxycycline can be decreased when combined with Sildenafil.",
+      "Tramadol": "The metabolism of Doxycycline can be decreased when combined with Tramadol.",
+      "Losartan": "The metabolism of Doxycycline can be decreased when combined with Losartan.",
+      "Pantoprazole": "The metabolism of Doxycycline can be decreased when combined with Pantoprazole.",
+      "Omeprazole": "The metabolism of Doxycycline can be decreased when combined with Omeprazole.",
+      "Digoxin": "The metabolism of Doxycycline can be decreased when combined with Digoxin.",
+      "Clopidogrel": "The metabolism of Doxycycline can be decreased when combined with Clopidogrel.",
+      "Alprazolam": "The metabolism of Doxycycline can be decreased when combined with Alprazolam.",
+      "Levothyroxine": "The metabolism of Doxycycline can be decreased when combined with Levothyroxine.",
+      "Clindamycin": "The metabolism of Doxycycline can be decreased when combined with Clindamycin.",
+      "Atorvastatin": "The risk or severity of adverse effects can be increased when Doxycycline is combined with Atorvastatin.",
+      "Amoxicillin": "The therapeutic efficacy of Amoxicillin can be decreased when used in combination with Doxycycline."
+    },
+    "food_interactions": "Take with or without food. The absorption of tetracyclines is reduced when taken with foods, but not to a significant extent. If gastric irritation occurs, it is recommended that doxycycline be given with food or milk. Avoid multivalent ions. The absorption of tetracyclines is reduced when taken with foods, especially those which contain calcium.",
+    "indications": "Doxycycline is indicated for the treatment of various infections by gram-positive and gram-negative bacteria, aerobes and anaerobes, as well other types of bacteria, including:\r\n\r\n- Early Lyme disease (as evidenced by erythema migraines) due to _Borrelia burgdorferi_ in adults and pediatric patients 8 years of age and older weighing 45 kg and above [L42875]\r\n- Rickettsial infections,[L42870] such as Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox, and tick fevers [L42880]\r\n- Sexually transmitted infections [L42870]\r\n- Respiratory tract infections [L42870] caused by _Mycoplasma pneumoniae_ and _Haemophilus influenzae_ [L42880]\r\n- Specific bacterial infections [L42870] after indicative bacteriologic testing. These include infections caused by _Escherichia coli_, _Enterobacter aerogenes_, _Shigella_ species, _Acinetobacter_ species, and _Klebsiella_ species [L42880]\r\n- Ophthalmic infections,[L42870] such as inclusion conjunctivitis caused by _Chlamydia trachomatis_ [L42880]\r\n- Anthrax, including inhalational anthrax (post-exposure) [L42870]\r\n- Alternative treatment for selected infections when [penicillin] is contraindicated [L42870]\r\n- Adjunctive therapy in acute intestinal amebiasis and severe acne [L42870, L42880]\r\n- Lymphogranuloma venereum caused by _Chlamydia trachomatis_ [L42880]\r\n- Psittacosis (ornithosis) caused by _Chlamydophila psittaci_ [L42880]\r\n- Trachoma caused by _Chlamydia trachomatis_, although the infectious agent is not always eliminated, as judged by immunofluorescence [L42880]\r\n- Uncomplicated urethral, endocervical, or rectal infections in adults caused by _Chlamydia trachomatis_ [L42880]\r\n- Nongonococcal urethritis caused by _Ureaplasma urealyticum_ [L42880]\r\n- Relapsing fever due to _Borrelia recurrentis_ [L42880]\r\n- Prophylaxis of malaria due to _Plasmodium falciparum_ in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [L42870, L42880]\r\n\r\nIt is also used to treat infections caused by the following gram-negative microorganisms:\r\n\r\n- Chancroid caused by _Haemophilus ducreyi_ [L42880]\r\n- Plague due to _Yersinia pestis_ [L42880]\r\n- Tularemia due to _Francisella tularensis_ [L42880]\r\n- Cholera caused by _Vibrio cholerae_ [L42880]\r\n- Campylobacter fetus infections caused by _Campylobacter fetus_ [L42880]\r\n- Brucellosis due to _Brucella_ species (in conjunction with [streptomycin]) [L42880]\r\n- Bartonellosis due to _Bartonella bacilliformis_ [L42880]\r\n- Granuloma inguinale caused by _Klebsiella granulomatis_ [L42880]",
+    "tablet_brand": [
+      "Doxy 100",
+      "Vibramycin",
+      "Doxytab"
+    ]
+  },
+  "Azithromycin": {
+    "interactions": {
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Azithromycin.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Azithromycin.",
+      "Rosuvastatin": "The serum concentration of Azithromycin can be increased when it is combined with Rosuvastatin.",
+      "Pantoprazole": "The metabolism of Azithromycin can be decreased when combined with Pantoprazole.",
+      "Omeprazole": "The metabolism of Azithromycin can be decreased when combined with Omeprazole.",
+      "Digoxin": "The serum concentration of Azithromycin can be increased when it is combined with Digoxin.",
+      "Clopidogrel": "The metabolism of Azithromycin can be decreased when combined with Clopidogrel.",
+      "Atorvastatin": "Atorvastatin may increase the myopathic rhabdomyolysis activities of Azithromycin."
+    },
+    "food_interactions": "Take on an empty stomach. Take at least 1 hour before or 2 hours after meals.",
+    "indications": "Azithromycin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria in order to prevent the development antimicrobial resistance and maintain the efficacy of azithromycin [FDA label].\r\n\r\nAzithromycin is indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the microorganisms listed in the specific conditions below. Recommended dosages, duration of therapy and considerations for various patient populations may vary among these infections. Refer to the FDA label and \"Indications\" section of this drug entry for detailed information [FDA label]. \r\n\r\n**Adults**:\r\n\r\nAcute bacterial exacerbations of chronic obstructive pulmonary disease due to _Haemophilus influenzae_, _Moraxella catarrhalis_ or _Streptococcus pneumoniae_\r\n\r\nAcute bacterial sinusitis due to _Haemophilus influenzae_, _Moraxella catarrhalis_ or _Streptococcus pneumoniae_\r\n\r\nCommunity-acquired pneumonia due to _Chlamydophila pneumoniae_, _Haemophilus influenzae_, _Mycoplasma pneumoniae_ or _Streptococcus pneumoniae_ in patients appropriate for oral therapy\r\n\r\nPharyngitis/tonsillitis caused by _Streptococcus pyogenes_ as an alternative to first-line therapy in individuals who cannot use first-line therapy.\r\nUncomplicated skin and skin structure infections due to _Staphylococcus aureus_, _Streptococcus pyogenes_, or _Streptococcus agalactiae_. Abscesses usually require surgical drainage.\r\n\r\nUrethritis and cervicitis due to _Chlamydia trachomatis_ or _Neisseria gonorrhoeae_.\r\n\r\nGenital ulcer disease in men due to _Haemophilus ducreyi_ (chancroid). Due to the small number of women included in clinical trials, the efficacy of azithromycin in the treatment of chancroid in women has not been established.\r\n\r\n**Pediatric Patients**\r\n\r\nAcute otitis media caused by _Haemophilus influenzae_, _Moraxella catarrhalis_ or _Streptococcus pneumoniae_\r\n\r\nCommunity-acquired pneumonia due to _Chlamydophila pneumoniae_, _Haemophilus influenzae_, _Mycoplasma pneumoniae_ or _Streptococcus pneumoniae_ in patients appropriate for oral therapy.\r\n\r\nPharyngitis/tonsillitis caused by _Streptococcus pyogenes_ as an alternative to first-line therapy in individuals who cannot use first-line therapy.",
+    "tablet_brand": [
+      "Azithral",
+      "Zithromax",
+      "Azim"
+    ]
+  },
+  "Sildenafil": {
+    "interactions": {
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Sildenafil.",
+      "Prednisolone": "The metabolism of Sildenafil can be decreased when combined with Prednisolone.",
+      "Busulfan": "The metabolism of Sildenafil can be decreased when combined with Busulfan.",
+      "Ibuprofen": "The metabolism of Sildenafil can be decreased when combined with Ibuprofen.",
+      "Rosuvastatin": "The metabolism of Sildenafil can be decreased when combined with Rosuvastatin.",
+      "Azithromycin": "The metabolism of Sildenafil can be decreased when combined with Azithromycin.",
+      "Tramadol": "The metabolism of Sildenafil can be decreased when combined with Tramadol.",
+      "Pantoprazole": "The metabolism of Sildenafil can be decreased when combined with Pantoprazole.",
+      "Omeprazole": "The metabolism of Sildenafil can be decreased when combined with Omeprazole.",
+      "Digoxin": "The metabolism of Sildenafil can be decreased when combined with Digoxin.",
+      "Clopidogrel": "The metabolism of Sildenafil can be decreased when combined with Clopidogrel.",
+      "Alprazolam": "The metabolism of Sildenafil can be decreased when combined with Alprazolam.",
+      "Levothyroxine": "The metabolism of Sildenafil can be decreased when combined with Levothyroxine.",
+      "Clindamycin": "The metabolism of Sildenafil can be decreased when combined with Clindamycin.",
+      "Losartan": "Sildenafil may increase the antihypertensive activities of Losartan.",
+      "Atorvastatin": "The risk or severity of adverse effects can be increased when Sildenafil is combined with Atorvastatin.",
+      "Lisinopril": "The serum concentration of Lisinopril can be increased when it is combined with Sildenafil.",
+      "Captopril": "The serum concentration of Captopril can be increased when it is combined with Sildenafil."
+    },
+    "food_interactions": "Take with or without food. If taken with a high-fat meal the medicine may take a little longer to start working.",
+    "indications": "Sildenafil is a phosphodiesterase-5 (PDE5) inhibitor that is predominantly employed for two primary indications:\r\n\r\n(1) the treatment of erectile dysfunction [A175582, L5611, F3853, F3856, F3886]; and\r\n\r\n(2) treatment of pulmonary hypertension, where:\r\na) the US FDA specifically indicates sildenafil for the treatment of pulmonary arterial hypertension (PAH) (WHO Group I) in adults to improve exercise ability and delay clinical worsening [F3850]. The delay in clinical worsening was demonstrated when sildenafil was added to background epoprostenol therapy [F3850]. Studies establishing effectiveness were short-term (12 to 16 weeks), and included predominately patients with New York Heart Association (NYHA) Functional Class II-III symptoms and idiopathic etiology (71%) or associated with connective tissue disease (CTD) (25%) [F3850];\r\n\r\nb) the Canadian product monograph specifically indicates sildenafil for the treatment of primary pulmonary arterial hypertension (PPH) or pulmonary hypertension secondary to connective tissue disease (CTD) in adult patients with WHO functional class II or III who have not responded to conventional therapy [F3859]. In addition, improvement in exercise ability and delay in clinical worsening was demonstrated in adult patients who were already stabilized on background epoprostenol therapy [F3859]; and\r\n\r\nc) the EMA product information specifically indicates sildenafil for the treatment of adult patients with pulmonary arterial hypertension classified as WHO functional class II and III, to improve exercise capacity [F3883]. Efficacy has been shown in primary pulmonary hypertension and pulmonary hypertension associated with connective tissue disease [F3883]. The EMA label also indicates sildenafil for the treatment of pediatric patients aged 1 year to 17 years old with pulmonary arterial hypertension [F3883]. Efficacy in terms of improvement of exercise capacity or pulmonary hemodynamics has been shown in primary pulmonary hypertension and pulmonary hypertension associated with congenital heart disease [F3883].",
+    "tablet_brand": [
+      "Viagra",
+      "Silagra",
+      "Sildef",
+      "Caverta"
+    ]
+  },
+  "Tramadol": {
+    "interactions": {
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Tramadol.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Tramadol.",
+      "Atorvastatin": "The risk or severity of adverse effects can be increased when Tramadol is combined with Atorvastatin.",
+      "Clopidogrel": "The metabolism of Clopidogrel can be decreased when combined with Tramadol.",
+      "Cetirizine": "The risk or severity of adverse effects can be increased when Tramadol is combined with Cetirizine.",
+      "Rosuvastatin": "The serum concentration of Tramadol can be increased when it is combined with Rosuvastatin.",
+      "Alprazolam": "The risk or severity of adverse effects can be increased when Tramadol is combined with Alprazolam.",
+      "Gabapentin": "The risk or severity of adverse effects can be increased when Tramadol is combined with Gabapentin."
+    },
+    "food_interactions": "No information available.",
+    "indications": "No information available.",
+    "tablet_brand": [
+      "Tramacet",
+      "Tramol",
+      "Doreta"
+    ]
+  },
+  "Losartan": {
+    "interactions": {
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Losartan.",
+      "Ibuprofen": "The metabolism of Losartan can be decreased when combined with Ibuprofen.",
+      "Rosuvastatin": "The metabolism of Losartan can be decreased when combined with Rosuvastatin.",
+      "Sildenafil": "Sildenafil may increase the antihypertensive activities of Losartan.",
+      "Omeprazole": "The metabolism of Losartan can be decreased when combined with Omeprazole.",
+      "Clopidogrel": "The metabolism of Losartan can be decreased when combined with Clopidogrel.",
+      "Alprazolam": "The metabolism of Losartan can be decreased when combined with Alprazolam.",
+      "Atorvastatin": "The risk or severity of adverse effects can be increased when Losartan is combined with Atorvastatin.",
+      "Lisinopril": "The risk or severity of adverse effects can be increased when Losartan is combined with Lisinopril.",
+      "Captopril": "The risk or severity of adverse effects can be increased when Losartan is combined with Captopril."
+    },
+    "food_interactions": "No information available.",
+    "indications": "No information available.",
+    "tablet_brand": [
+      "Losar",
+      "Cozaar"
+    ]
+  },
+  "Pantoprazole": {
+    "interactions": {
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Pantoprazole.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Pantoprazole.",
+      "Ibuprofen": "The metabolism of Pantoprazole can be decreased when combined with Ibuprofen.",
+      "Rosuvastatin": "The metabolism of Pantoprazole can be decreased when combined with Rosuvastatin.",
+      "Omeprazole": "The metabolism of Pantoprazole can be decreased when combined with Omeprazole.",
+      "Amoxicillin": "The metabolism of Pantoprazole can be decreased when combined with Amoxicillin.",
+      "Clopidogrel": "The serum concentration of the active metabolites of Clopidogrel can be reduced when Clopidogrel is used in combination with Pantoprazole resulting in a loss in efficacy.",
+      "Azithromycin": "The metabolism of Azithromycin can be decreased when combined with Pantoprazole."
+    },
+    "food_interactions": "No information available.",
+    "indications": "No information available.",
+    "tablet_brand": [
+      "Pantocid",
+      "Pantop",
+      "Protonix"
+    ]
+  },
+  "Omeprazole": {
+    "interactions": {
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Omeprazole.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Omeprazole.",
+      "Losartan": "The metabolism of Losartan can be decreased when combined with Omeprazole.",
+      "Atorvastatin": "The risk or severity of adverse effects can be increased when Omeprazole is combined with Atorvastatin.",
+      "Pantoprazole": "The metabolism of Pantoprazole can be decreased when combined with Omeprazole.",
+      "Ibuprofen": "The metabolism of Omeprazole can be decreased when combined with Ibuprofen.",
+      "Rosuvastatin": "The metabolism of Omeprazole can be decreased when combined with Rosuvastatin.",
+      "Alprazolam": "The metabolism of Omeprazole can be decreased when combined with Alprazolam.",
+      "Amoxicillin": "The metabolism of Omeprazole can be decreased when combined with Amoxicillin.",
+      "Clopidogrel": "Omeprazole may decrease the antiplatelet activities of Clopidogrel.",
+      "Azithromycin": "The metabolism of Azithromycin can be decreased when combined with Omeprazole."
+    },
+    "food_interactions": "No information available.",
+    "indications": "No information available.",
+    "tablet_brand": [
+      "Omez",
+      "Losec",
+      "Omep"
+    ]
+  },
+  "Clopidogrel": {
+    "interactions": {
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Clopidogrel.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Clopidogrel.",
+      "Losartan": "The metabolism of Losartan can be decreased when combined with Clopidogrel.",
+      "Rosuvastatin": "The serum concentration of Clopidogrel can be increased when it is combined with Rosuvastatin.",
+      "Tramadol": "The metabolism of Clopidogrel can be decreased when combined with Tramadol.",
+      "Pantoprazole": "The serum concentration of the active metabolites of Clopidogrel can be reduced when Clopidogrel is used in combination with Pantoprazole resulting in a loss in efficacy.",
+      "Omeprazole": "Omeprazole may decrease the antiplatelet activities of Clopidogrel.",
+      "Gabapentin": "The therapeutic efficacy of Clopidogrel can be decreased when used in combination with Gabapentin.",
+      "Azithromycin": "The metabolism of Azithromycin can be decreased when combined with Clopidogrel."
+    },
+    "food_interactions": "No information available.",
+    "indications": "No information available.",
+    "tablet_brand": [
+      "Plavix",
+      "Clopilet",
+      "Clopitab"
+    ]
+  },
+  "Alprazolam": {
+    "interactions": {
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Alprazolam.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Alprazolam.",
+      "Losartan": "The metabolism of Losartan can be decreased when combined with Alprazolam.",
+      "Atorvastatin": "The risk or severity of adverse effects can be increased when Alprazolam is combined with Atorvastatin.",
+      "Omeprazole": "The metabolism of Omeprazole can be decreased when combined with Alprazolam.",
+      "Lisinopril": "The serum concentration of Lisinopril can be increased when it is combined with Alprazolam.",
+      "Captopril": "The serum concentration of Captopril can be increased when it is combined with Alprazolam.",
+      "Cetirizine": "The risk or severity of adverse effects can be increased when Alprazolam is combined with Cetirizine.",
+      "Rosuvastatin": "The serum concentration of Alprazolam can be increased when it is combined with Rosuvastatin.",
+      "Tramadol": "The risk or severity of adverse effects can be increased when Tramadol is combined with Alprazolam.",
+      "Gabapentin": "The risk or severity of adverse effects can be increased when Alprazolam is combined with Gabapentin."
+    },
+    "food_interactions": "Avoid grapefruit products. Take with or without food. Food increases the Cmax of extended release alprazolam by 25%, but the AUC and half life are not affected. Limit caffeine intake. Avoid alcohol. Alcohol may potentiate the CNS depressant effects of this drug.",
+    "indications": "Alprazolam is indicated for the acute treatment of generalized anxiety disorder in adults.[L34783] Alprazolam is also indicated, either as a standard or extended-release formulation, for the treatment of panic disorder with or without agoraphobia in adults.[L34783, L34788]\r\n\r\nAlprazolam may also be prescribed off-label for insomnia, premenstrual syndrome, and depression.[A177973]",
+    "tablet_brand": [
+      "Alprax",
+      "Xanax",
+      "Alzolam"
+    ]
+  },
+  "Levothyroxine": {
+    "interactions": {
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Levothyroxine.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Levothyroxine."
+    },
+    "food_interactions": "Avoid iron supplements. Iron may interfere with the absorption of this drug by forming an insoluble complex. Separate medication administration by at least 4 hours. Avoid grapefruit products. Grapefruit may delay the absorption of this medication. Do not take with bran and high fiber foods. Dietary fiber, soybean flour, cottonseed meal, and walnuts may reduce the absorption of levothyroxine. Take on an empty stomach. Levothyroxine should be taken on an empty stomach 30-60 minutes prior to the first meal of the day. Avoid multivalent ions. Examples include iron, magnesium, and calcium. These are often found in antacids, vitamins, and supplements - separate medication administration by at least 4 hours. Avoid calcium supplements/calcium rich foods. Calcium may interfere with the absorption of this drug by forming an insoluble complex. Separate medication administration by at least 4 hours.",
+    "indications": "Levothyroxine is indicated as replacement therapy in primary (thyroidal), secondary (pituitary) and tertiary (hypothalamic) congenital or acquired hypothyroidism. It is also indicated as an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer.",
+    "tablet_brand": [
+      "Eltroxin",
+      "Thyronorm",
+      "Euthyrox"
+    ]
+  },
+  "Clindamycin": {
+    "interactions": {
+      "Doxycycline": "The metabolism of Doxycycline can be decreased when combined with Clindamycin.",
+      "Sildenafil": "The metabolism of Sildenafil can be decreased when combined with Clindamycin.",
+      "Atorvastatin": "The risk or severity of adverse effects can be increased when Clindamycin is combined with Atorvastatin.",
+      "Rosuvastatin": "The serum concentration of Clindamycin can be increased when it is combined with Rosuvastatin."
+    },
+    "food_interactions": "Take with a full glass of water. Clindamycin may cause esophageal irritation if the dosage form becomes lodged. Take with or without food. Food does not appreciably alter the absorption of clindamycin.",
+    "indications": "In oral and parenteral formulations, clindamycin is indicated for the treatment of serious infections caused by susceptible anaerobic bacteria, as well as susceptible staphylococci, streptococci, and pneumococci.[L11599,L11602] Used topically, it is indicated for the treatment of acne vulgaris[L11593,L11611,L11605] and is available in combination with [benzoyl peroxide][L11584] or [tretinoin][L11590] for this purpose. Clindamycin is also indicated as a vaginal cream[L11596], suppository[L11608], or gel[L39416] for the treatment of bacterial vaginosis in non-pregnant females.\r\n\r\nClindamycin is used for antimicrobial prophylaxis against _Viridans_ group streptococcal infections in susceptible patients undergoing oral, dental, or upper respiratory surgery, and may be used for prophylaxis against bacterial endocarditis in penicillin-allergic patients at high risk of these infections.[L11629]",
+    "tablet_brand": [
+      "Cleocin",
+      "Clindac",
+      "Dalacin"
+    ]
+  },
+  "Lisinopril": {
+    "interactions": {
+      "Ibuprofen": "The risk or severity of adverse effects can be increased when Lisinopril is combined with Ibuprofen.",
+      "Rosuvastatin": "The serum concentration of Lisinopril can be increased when it is combined with Rosuvastatin.",
+      "Sildenafil": "The serum concentration of Lisinopril can be increased when it is combined with Sildenafil.",
+      "Losartan": "The risk or severity of adverse effects can be increased when Losartan is combined with Lisinopril.",
+      "Digoxin": "The serum concentration of Lisinopril can be increased when it is combined with Digoxin.",
+      "Alprazolam": "The serum concentration of Lisinopril can be increased when it is combined with Alprazolam.",
+      "Atorvastatin": "The serum concentration of Lisinopril can be increased when it is combined with Atorvastatin.",
+      "Captopril": "The risk or severity of adverse effects can be increased when Lisinopril is combined with Captopril."
+    },
+    "food_interactions": "Avoid potassium-containing products. Potassium products increase the risk of hyperkalemia. Limit salt intake. Salt may attenuate the antihypertensive effect. Avoid hypertensive herbs (e.g. bayberry, blue cohosh, cayenne, ephedra, and licorice). Take with or without food. The absorption is unaffected by food.",
+    "indications": "Lisinopril is indicated for the treatment of acute myocardial infarction, hypertension in patients \u22656 years, and as an adjunct therapy for heart failure.[L8384,L8387] A combination product with hydrochlorothiazide is indicated for the treatment of hypertension.[L8390]",
+    "tablet_brand": [
+      "Lisopril",
+      "Zestril",
+      "Lisir"
+    ]
+  },
+  "Captopril": {
+    "interactions": {
+      "Ibuprofen": "The risk or severity of adverse effects can be increased when Captopril is combined with Ibuprofen.",
+      "Rosuvastatin": "The serum concentration of Captopril can be increased when it is combined with Rosuvastatin.",
+      "Sildenafil": "The serum concentration of Captopril can be increased when it is combined with Sildenafil.",
+      "Lisinopril": "The risk or severity of adverse effects can be increased when Lisinopril is combined with Captopril.",
+      "Losartan": "The risk or severity of adverse effects can be increased when Losartan is combined with Captopril.",
+      "Digoxin": "The serum concentration of Captopril can be increased when it is combined with Digoxin.",
+      "Alprazolam": "The serum concentration of Captopril can be increased when it is combined with Alprazolam.",
+      "Atorvastatin": "The serum concentration of Captopril can be increased when it is combined with Atorvastatin."
+    },
+    "food_interactions": "Avoid potassium-containing products. Potassium products increase the risk of hyperkalemia. Limit salt intake. Salt may attenuate the antihypertensive effect. Take separate from meals. The presence of food decreases absorption. Take one hour prior to meals. Avoid hypertensive herbs (e.g. bayberry, blue cohosh, cayenne, ephedra, and licorice).",
+    "indications": "For the treatment of essential or renovascular hypertension (usually administered with other drugs, particularly thiazide diuretics). May be used to treat congestive heart failure in combination with other drugs (e.g. cardiac glycosides, diuretics, &beta;-adrenergic blockers). May improve survival in patients with left ventricular dysfunction following myocardial infarction. May be used to treat nephropathy, including diabetic nephropathy.",
+    "tablet_brand": [
+      "Capoten",
+      "Capozide"
+    ]
+  },
+  "Atorvastatin": {
+    "interactions": {
+      "Prednisolone": "The risk or severity of adverse effects can be increased when Prednisolone is combined with Atorvastatin.",
+      "Rosuvastatin": "The risk or severity of adverse effects can be increased when Rosuvastatin is combined with Atorvastatin.",
+      "Sildenafil": "The risk or severity of adverse effects can be increased when Sildenafil is combined with Atorvastatin.",
+      "Tramadol": "The risk or severity of adverse effects can be increased when Tramadol is combined with Atorvastatin.",
+      "Losartan": "The risk or severity of adverse effects can be increased when Losartan is combined with Atorvastatin.",
+      "Omeprazole": "The risk or severity of adverse effects can be increased when Omeprazole is combined with Atorvastatin.",
+      "Digoxin": "The serum concentration of Atorvastatin can be increased when it is combined with Digoxin.",
+      "Alprazolam": "The risk or severity of adverse effects can be increased when Alprazolam is combined with Atorvastatin.",
+      "Gabapentin": "The risk or severity of adverse effects can be increased when Gabapentin is combined with Atorvastatin.",
+      "Clindamycin": "The risk or severity of adverse effects can be increased when Clindamycin is combined with Atorvastatin.",
+      "Doxycycline": "The risk or severity of adverse effects can be increased when Doxycycline is combined with Atorvastatin.",
+      "Lisinopril": "The serum concentration of Lisinopril can be increased when it is combined with Atorvastatin.",
+      "Captopril": "The serum concentration of Captopril can be increased when it is combined with Atorvastatin.",
+      "Azithromycin": "Atorvastatin may increase the myopathic rhabdomyolysis activities of Azithromycin."
+    },
+    "food_interactions": "Avoid grapefruit products. Grapefruit products may increase the risk for atorvastatin related adverse effects such as myopathy and rhabdomyolysis. Take with or without food. Food decreases absorption but not to a clinically significant extent.",
+    "indications": "Atorvastatin is indicated for the treatment of several types of dyslipidemias, including primary hyperlipidemia and mixed dyslipidemia in adults, hypertriglyceridemia, primary dysbetalipoproteinemia, homozygous familial hypercholesterolemia, and heterozygous familial hypercholesterolemia in adolescent patients with failed dietary modifications.[A177397]\r\n\r\nDyslipidemia describes an elevation of plasma cholesterol, triglycerides or both as well as to the presence of low levels of high-density lipoprotein. This condition represents an increased risk for the development of atherosclerosis.[L6025] \r\n\r\nAtorvastatin is indicated, in combination with dietary modifications, to prevent cardiovascular events in patients with cardiac risk factors and/or abnormal lipid profiles.[A177397]\r\n\r\nAtorvastatin can be used as a preventive agent for myocardial infarction, stroke, revascularization, and angina, in patients without coronary heart disease but with multiple risk factors and in patients with type 2 diabetes without coronary heart disease but multiple risk factors.[A177397]\r\n\r\nAtorvastatin may be used as a preventive agent for non-fatal myocardial infarction, fatal and non-fatal stroke, revascularization procedures, hospitalization for congestive heart failure and angina in patients with coronary heart disease.[A177397]\r\n\r\nPrescribing of statin medications is considered standard practice following any cardiovascular events and for people with a moderate to high risk of development of CVD. Statin-indicated conditions include diabetes mellitus, clinical atherosclerosis (including myocardial infarction, acute coronary syndromes, stable angina, documented coronary artery disease, stroke, trans ischemic attack (TIA), documented carotid disease, peripheral artery disease, and claudication), abdominal aortic aneurysm, chronic kidney disease, and severely elevated LDL-C levels.[A181087, A181406]",
+    "tablet_brand": [
+      "Lipitor",
+      "Ator",
+      "Cardator"
+    ]
+  },
+  "Gabapentin": {
+    "interactions": {
+      "Atorvastatin": "The risk or severity of adverse effects can be increased when Gabapentin is combined with Atorvastatin.",
+      "Clopidogrel": "The therapeutic efficacy of Clopidogrel can be decreased when used in combination with Gabapentin.",
+      "Cetirizine": "The risk or severity of adverse effects can be increased when Gabapentin is combined with Cetirizine.",
+      "Tramadol": "The risk or severity of adverse effects can be increased when Tramadol is combined with Gabapentin.",
+      "Alprazolam": "The risk or severity of adverse effects can be increased when Alprazolam is combined with Gabapentin.",
+      "Rosuvastatin": "The risk or severity of adverse effects can be increased when Gabapentin is combined with Rosuvastatin."
+    },
+    "food_interactions": "Take with or without food. Co-administration with food slightly alters pharmacokinetics, but not to a clinically significant extent. Avoid alcohol. Gabapentin possesses CNS depressant activity that may be potentiated by co-administration with alcohol.",
+    "indications": "In the United States, gabapentin is officially indicated for the treatment of postherpetic neuralgia in adults and for the adjunctive treatment of partial-onset seizures, with or without secondary generalization, in patients 3 years of age and older.[L8717] In Europe, gabapentin is indicated for adjunctive therapy in the treatment of partial-onset seizures, with or without secondary generalization, in patients 6 years of age and older and as monotherapy in patients 12 years of age and older. It is also used in adults for the treatment of various types of peripheral neuropathic pain, such as painful diabetic neuropathy.[L8732]",
+    "tablet_brand": [
+      "Neurontin",
+      "Gabantin",
+      "Gabapin",
+      "Gralise",
+      "Horizant",
+      "Gabarich"
+    ]
+  },
+  "Amoxicillin": {
+    "interactions": {
+      "Pantoprazole": "The metabolism of Pantoprazole can be decreased when combined with Amoxicillin.",
+      "Omeprazole": "The metabolism of Omeprazole can be decreased when combined with Amoxicillin.",
+      "Doxycycline": "The therapeutic efficacy of Amoxicillin can be decreased when used in combination with Doxycycline."
+    },
+    "food_interactions": "Take with food.",
+    "indications": "Amoxicillin alone is indicated to treat susceptible bacterial infections of the ear, nose, throat, genitourinary tract, skin, skin structure, and lower respiratory tract.[L11656,L11659] Amoxicillin is given with calvulanic acid to treat acute bacterial sinusitis, community acquired pneumonia, lower respiratory tract infections, acute bacterial otitis media, skin and skin structure infections, and urinary tract infections.[L11650,L7880,L11653] Amoxicillin is given with omeprazole in the treatment of _Helicobacter pylori_ (_H. pylori_) infection.[L9743,L11647]\r\n\r\nAmoxicillin is used in combination with [vonoprazan] and [clarithromycin] as co-packaged triple therapy or in combination with [vonoprazan] as co-packaged dual therapy to treat _H. pylori_ infection in adults.[L41695]",
+    "tablet_brand": [
+      "Amoxil",
+      "Augmentin",
+      "Novamox",
+      "Almox",
+      "Mox",
+      "Amoxycillin DT"
+    ]
+  },
+  "Cetirizine": {
+    "interactions": {
+      "Tramadol": "The risk or severity of adverse effects can be increased when Tramadol is combined with Cetirizine.",
+      "Alprazolam": "The risk or severity of adverse effects can be increased when Alprazolam is combined with Cetirizine.",
+      "Gabapentin": "The risk or severity of adverse effects can be increased when Gabapentin is combined with Cetirizine."
+    },
+    "food_interactions": "Avoid alcohol. Take with or without food. The absorption is unaffected by food.",
+    "indications": "**Seasonal Allergic Rhinitis**: Indicated for the relief of symptoms associated with seasonal allergic rhinitis caused by allergens such as ragweed, grass and tree pollens in adults and children 2 years of age and above. Symptoms treated effectively include sneezing, rhinorrhea, nasal pruritus, ocular pruritus, tearing, and redness of the eyes [FDA label]. \r\n\r\n**Perennial allergic rhinitis**: This drug is indicated for the relief of symptoms associated with perennial allergic rhinitis due to allergens including dust mites, animal dander, and molds in adults and children 6 months of age and older. Symptoms treated effectively include sneezing, rhinorrhea, postnasal discharge, nasal pruritus, ocular pruritus, and tearing [FDA label]. \r\n\r\n**Chronic urticaria**: Cetirizine is indicated for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria in adults and children 6 months of age and older. It markedly reduces the occurrence, severity, and duration of hives and significantly reduces pruritus [FDA label].",
+    "tablet_brand": [
+      "Zyrtec",
+      "Cetzine",
+      "Okacet",
+      "Cetcip",
+      "Reactine",
+      "Allercet"
+    ]
+  },
+  "Metformin": {
+    "interactions": {
+      "Prednisolone": "The therapeutic efficacy of Metformin can be decreased when used in combination with Prednisolone."
+    },
+    "food_interactions": "Avoid alcohol. Take with food. Food reduces irritation.",
+    "indications": "**Metformin immediate-release formulations**\r\n \r\nMetformin is indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients \u226510 years old with type 2 diabetes mellitus.[L40243]\r\n\r\n**Metformin extended-release tablet (XR)**\r\n\r\nThe extended-release formulation of metformin is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Safety in children has not been determined to this date.[L12207]\r\n\r\n**Metformin combination products**\r\n\r\nMetformin is a component of a variety of combination products with other anti-diabetic agents. It is indicated, along with diet and exercise, to improve glycemic control in adult patients with type 2 diabetes mellitus in combination with DPP-4 inhibitors ([sitagliptin], [linagliptin], [alogliptin], or [saxagliptin]),[L11479,L40248,L40253,L40258,L40263] in combination with SGLT2 inhibitors ([canagliflozin], [empagliflozin], [ertugliflozin], or [dapagliflozin]),[L11479,L30503,L1134,L13679,L38729] or in combination with [pioglitazone].[L11419]",
+    "tablet_brand": [
+      "Glucophage",
+      "Glycomet",
+      "Gluformin",
+      "Obimet",
+      "Istamet",
+      "Janumet"
+    ]
+  }
+}
