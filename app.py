@@ -5,7 +5,10 @@ import os
  
 app = Flask(__name__)
 CORS(app)
-
+@app.route("/")
+def home():
+    return jsonify({"message": "Flask backend running on Render!"})
+PORT = int(os.environ.get("PORT", 10000)) 
 with open(os.path.join("data","top_kb.json")) as f:
     kb = json.load(f)
  
@@ -74,4 +77,5 @@ def sendFoodInteractions():
         "results":result
     })
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=PORT, debug=True)
+
