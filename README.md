@@ -1,27 +1,27 @@
-# Drug & Food Interaction Checker
+# Drug & Food Interaction Checker — Backend
 
-An application that checks potential drug–drug and drug–food interactions using a structured knowledge base. It maps brand names to generic medicines and provides interaction severity information to help users identify potential risks.
+A Python Flask backend that powers a drug and food interaction checker using a structured medicine knowledge base. It processes requests, matches medicine names, and returns potential interaction information with severity classifications.
 
 ## Features
 
-- **Drug Interaction Checking:** Checks medicines for potential interactions.
-- **Brand-to-Generic Mapping:** Helps match brand names with generic medicine names.
-- **Severity Classification:** Displays interaction severity categories such as low, medium, and severe, according to the available data.
-- **Food Interaction Checking:** Provides food-related warnings when supported by the knowledge base.
-- **Structured Knowledge Base:** Uses JSON data to support medicine matching and interaction lookups.
-- **REST API:** Provides a Flask backend for application requests.
+- **Drug–Drug Interaction Checks:** Looks up potential interactions between medicines.
+- **Brand-to-Generic Matching:** Supports medicine name matching where mappings are available.
+- **Severity Information:** Returns severity classifications based on the available knowledge-base data.
+- **Food Interaction Checks:** Supports food-related warnings where the relevant data is available.
+- **Structured Knowledge Base:** Uses JSON data for medicine and interaction lookups.
+- **REST API:** Exposes backend functionality for the React frontend.
 
 ## Tech Stack
 
 - Python
 - Flask
-- REST API
-- JSON-based knowledge base
+- REST APIs
+- JSON
 
 ## Project Structure
 
 ```text
-Drug-Food-Interaction-Checker/
+Drug-Interaction-Backend/
 ├── data/
 │   ├── extractdata.py
 │   └── top_kb.json
@@ -33,12 +33,18 @@ Drug-Food-Interaction-Checker/
 
 ## Getting Started
 
+### Prerequisites
+
+- Python 3.10 or a version supported by the dependencies
+- pip
+
 ### 1. Clone the repository
 
 ```bash
-git clone drugInteractionBackend
+git clone https://github.com/varshitha23-0/drugInteractionBackend
 cd drugInteractionBackend
 ```
+
 
 ### 2. Create a virtual environment
 
@@ -58,18 +64,28 @@ Activate it on Windows:
 pip install -r requirements.txt
 ```
 
-### 4. Run the backend
+### 4. Start the backend
 
 ```bash
 python app.py
 ```
 
-Use the local URL shown in the terminal to access the backend, or test its API endpoints using a suitable API client.
+Use the local address displayed in the terminal to access the backend. If the application exposes API endpoints, you can test them using a browser or an API client where appropriate.
 
-## Purpose
+## Knowledge Base
 
-This project explores how structured medicine information and backend APIs can help users identify potential drug and food interactions.
+The `data/top_kb.json` file contains structured information used by the backend for medicine matching and interaction lookups. The `data/extractdata.py` script supports data extraction or preparation.
+
+## Deployment
+
+The `Procfile` specifies a startup command for compatible hosting platforms. Deployment also requires the appropriate Python runtime, installed dependencies, and any required environment configuration.
+
+## Related Project
+
+This backend is designed to work with the React frontend for the Drug & Food Interaction Checker.
+
+Add the frontend repository link here once it is published.
 
 ## Disclaimer
 
-This tool is for informational and educational purposes only. It does not replace advice from a qualified healthcare professional. Always consult a doctor or pharmacist before changing medication or dietary instructions.
+This project is intended for educational and informational purposes. Its results depend on the coverage and quality of the underlying data and should not replace advice from a qualified doctor or pharmacist. Do not change medication or dietary instructions based solely on this application.
